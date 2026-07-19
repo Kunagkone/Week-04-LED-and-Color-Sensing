@@ -18,7 +18,7 @@
     
 2. หลอด LED สามสี (RGB LED) ชนิด Common Cathode หรือ Common Anode จำนวน 1 ดวง
     
-3. ตัวต้านทาน (Resistor) ขนาด $330\,\Omega$ หรือ $470\,\Omega$ จำนวน 3 ตัว
+3. ตัวต้านทาน (Resistor) ขนาด $330 \Omega$ หรือ $470 \Omega$ จำนวน 3 ตัว
     
 4. โฟโต้บอร์ด (Breadboard) และสายจัมเปอร์ (Jumper Wires)
     

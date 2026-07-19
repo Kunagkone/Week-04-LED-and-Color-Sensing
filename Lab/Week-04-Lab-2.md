@@ -90,7 +90,7 @@ void sample_and_print(adc_oneshot_unit_handle_t adc_handle, const char* phase_na
     printf("Color %s:\n", phase_name);
     printf("No, ADC Raw\n");
     
-    // ทำการสุ่มอ่าน 20 แซมเปิ้ล โดยเก็บค่าวิดีโอต่อเนื่องทุก 150ms 
+    // ทำการสุ่มอ่าน 20 แซมเปิ้ล โดยเก็บค่า adc ต่อเนื่องทุก 150ms 
     for (int i = 1; i <= NUM_SAMPLES; i++) {
         int raw_value = 0;
         ESP_ERROR_CHECK(adc_oneshot_read(adc_handle, RX_ADC_CHANNEL, &raw_value));

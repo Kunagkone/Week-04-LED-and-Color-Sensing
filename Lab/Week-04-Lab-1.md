@@ -171,10 +171,14 @@ idf_component_register(SRCS "main.c"
 #### 4.1 จาก `idf.py monitor` 
 
 ```
+รูปภาพการทดลอง lab 1
+
 
 
 ```
 
 #### 4.2 จากการสังเกตุ LED 
 
+วีดิโอ youtube
+ลิ้ง
 
